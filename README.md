@@ -1,5 +1,5 @@
 # Learning-sources
-Statistics
-Linear Algebra
-Machine Learning
-Deep Learning
+1. Statistics
+2. Linear Algebra
+3. Machine Learning
+4. Deep Learning
