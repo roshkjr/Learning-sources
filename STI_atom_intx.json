@@ -1,0 +1,2984 @@
+{
+    "total": [
+        {
+            "atom": "C1",
+            "value": 0.078
+        },
+        {
+            "atom": "C6",
+            "value": 0.07
+        },
+        {
+            "atom": "C5",
+            "value": 0.063
+        },
+        {
+            "atom": "C4",
+            "value": 0.034
+        },
+        {
+            "atom": "N3",
+            "value": 0.067
+        },
+        {
+            "atom": "C2",
+            "value": 0.056
+        },
+        {
+            "atom": "C7",
+            "value": 0.044
+        },
+        {
+            "atom": "C12",
+            "value": 0.124
+        },
+        {
+            "atom": "C11",
+            "value": 0.072
+        },
+        {
+            "atom": "N10",
+            "value": 0.055
+        },
+        {
+            "atom": "C9",
+            "value": 0.044
+        },
+        {
+            "atom": "N8",
+            "value": 0.042
+        },
+        {
+            "atom": "N13",
+            "value": 0.023
+        },
+        {
+            "atom": "C14",
+            "value": 0.037
+        },
+        {
+            "atom": "C19",
+            "value": 0.062
+        },
+        {
+            "atom": "C18",
+            "value": 0.095
+        },
+        {
+            "atom": "C17",
+            "value": 0.085
+        },
+        {
+            "atom": "C16",
+            "value": 0.038
+        },
+        {
+            "atom": "C15",
+            "value": 0.069
+        },
+        {
+            "atom": "N21",
+            "value": 0.036
+        },
+        {
+            "atom": "C22",
+            "value": 0.008
+        },
+        {
+            "atom": "C23",
+            "value": 0.059
+        },
+        {
+            "atom": "C25",
+            "value": 0.057
+        },
+        {
+            "atom": "C26",
+            "value": 0.049
+        },
+        {
+            "atom": "C27",
+            "value": 0.042
+        },
+        {
+            "atom": "C28",
+            "value": 0.047
+        },
+        {
+            "atom": "C29",
+            "value": 0.058
+        },
+        {
+            "atom": "C53",
+            "value": 0.001
+        },
+        {
+            "atom": "C52",
+            "value": 0.009
+        },
+        {
+            "atom": "N51",
+            "value": 0.006
+        },
+        {
+            "atom": "C54",
+            "value": 0.006
+        },
+        {
+            "atom": "C50",
+            "value": 0.007
+        },
+        {
+            "atom": "C49",
+            "value": 0.001
+        },
+        {
+            "atom": "O29",
+            "value": 0.03
+        },
+        {
+            "atom": "C20",
+            "value": 0.044
+        }
+    ],
+    "clash": [
+        {
+            "atom": "C1",
+            "value": 0.0
+        },
+        {
+            "atom": "C6",
+            "value": 0.0
+        },
+        {
+            "atom": "C5",
+            "value": 0.0
+        },
+        {
+            "atom": "C4",
+            "value": 0.0
+        },
+        {
+            "atom": "N3",
+            "value": 0.0
+        },
+        {
+            "atom": "C2",
+            "value": 0.0
+        },
+        {
+            "atom": "C7",
+            "value": 0.0
+        },
+        {
+            "atom": "C12",
+            "value": 0.0
+        },
+        {
+            "atom": "C11",
+            "value": 0.0
+        },
+        {
+            "atom": "N10",
+            "value": 0.0
+        },
+        {
+            "atom": "C9",
+            "value": 0.0
+        },
+        {
+            "atom": "N8",
+            "value": 0.0
+        },
+        {
+            "atom": "N13",
+            "value": 0.0
+        },
+        {
+            "atom": "C14",
+            "value": 0.0
+        },
+        {
+            "atom": "C19",
+            "value": 0.0
+        },
+        {
+            "atom": "C18",
+            "value": 0.0
+        },
+        {
+            "atom": "C17",
+            "value": 0.0
+        },
+        {
+            "atom": "C16",
+            "value": 0.0
+        },
+        {
+            "atom": "C15",
+            "value": 0.0
+        },
+        {
+            "atom": "N21",
+            "value": 0.0
+        },
+        {
+            "atom": "C22",
+            "value": 0.0
+        },
+        {
+            "atom": "C23",
+            "value": 0.0
+        },
+        {
+            "atom": "C25",
+            "value": 0.0
+        },
+        {
+            "atom": "C26",
+            "value": 0.0
+        },
+        {
+            "atom": "C27",
+            "value": 0.0
+        },
+        {
+            "atom": "C28",
+            "value": 0.0
+        },
+        {
+            "atom": "C29",
+            "value": 0.0
+        },
+        {
+            "atom": "C53",
+            "value": 0.0
+        },
+        {
+            "atom": "C52",
+            "value": 0.0
+        },
+        {
+            "atom": "N51",
+            "value": 0.0
+        },
+        {
+            "atom": "C54",
+            "value": 0.0
+        },
+        {
+            "atom": "C50",
+            "value": 0.0
+        },
+        {
+            "atom": "C49",
+            "value": 0.0
+        },
+        {
+            "atom": "O29",
+            "value": 0.0
+        },
+        {
+            "atom": "C20",
+            "value": 0.0
+        }
+    ],
+    "covalent": [
+        {
+            "atom": "C1",
+            "value": 0.0
+        },
+        {
+            "atom": "C6",
+            "value": 0.0
+        },
+        {
+            "atom": "C5",
+            "value": 0.0
+        },
+        {
+            "atom": "C4",
+            "value": 0.0
+        },
+        {
+            "atom": "N3",
+            "value": 0.0
+        },
+        {
+            "atom": "C2",
+            "value": 0.0
+        },
+        {
+            "atom": "C7",
+            "value": 0.0
+        },
+        {
+            "atom": "C12",
+            "value": 0.0
+        },
+        {
+            "atom": "C11",
+            "value": 0.0
+        },
+        {
+            "atom": "N10",
+            "value": 0.0
+        },
+        {
+            "atom": "C9",
+            "value": 0.0
+        },
+        {
+            "atom": "N8",
+            "value": 0.0
+        },
+        {
+            "atom": "N13",
+            "value": 0.0
+        },
+        {
+            "atom": "C14",
+            "value": 0.0
+        },
+        {
+            "atom": "C19",
+            "value": 0.0
+        },
+        {
+            "atom": "C18",
+            "value": 0.0
+        },
+        {
+            "atom": "C17",
+            "value": 0.0
+        },
+        {
+            "atom": "C16",
+            "value": 0.0
+        },
+        {
+            "atom": "C15",
+            "value": 0.0
+        },
+        {
+            "atom": "N21",
+            "value": 0.0
+        },
+        {
+            "atom": "C22",
+            "value": 0.0
+        },
+        {
+            "atom": "C23",
+            "value": 0.0
+        },
+        {
+            "atom": "C25",
+            "value": 0.0
+        },
+        {
+            "atom": "C26",
+            "value": 0.0
+        },
+        {
+            "atom": "C27",
+            "value": 0.0
+        },
+        {
+            "atom": "C28",
+            "value": 0.0
+        },
+        {
+            "atom": "C29",
+            "value": 0.0
+        },
+        {
+            "atom": "C53",
+            "value": 0.0
+        },
+        {
+            "atom": "C52",
+            "value": 0.0
+        },
+        {
+            "atom": "N51",
+            "value": 0.0
+        },
+        {
+            "atom": "C54",
+            "value": 0.0
+        },
+        {
+            "atom": "C50",
+            "value": 0.0
+        },
+        {
+            "atom": "C49",
+            "value": 0.0
+        },
+        {
+            "atom": "O29",
+            "value": 0.0
+        },
+        {
+            "atom": "C20",
+            "value": 0.0
+        }
+    ],
+    "vdw_clash": [
+        {
+            "atom": "C1",
+            "value": 0.009
+        },
+        {
+            "atom": "C6",
+            "value": 0.0
+        },
+        {
+            "atom": "C5",
+            "value": 0.0
+        },
+        {
+            "atom": "C4",
+            "value": 0.083
+        },
+        {
+            "atom": "N3",
+            "value": 0.118
+        },
+        {
+            "atom": "C2",
+            "value": 0.128
+        },
+        {
+            "atom": "C7",
+            "value": 0.033
+        },
+        {
+            "atom": "C12",
+            "value": 0.006
+        },
+        {
+            "atom": "C11",
+            "value": 0.099
+        },
+        {
+            "atom": "N10",
+            "value": 0.039
+        },
+        {
+            "atom": "C9",
+            "value": 0.016
+        },
+        {
+            "atom": "N8",
+            "value": 0.017
+        },
+        {
+            "atom": "N13",
+            "value": 0.281
+        },
+        {
+            "atom": "C14",
+            "value": 0.019
+        },
+        {
+            "atom": "C19",
+            "value": 0.058
+        },
+        {
+            "atom": "C18",
+            "value": 0.015
+        },
+        {
+            "atom": "C17",
+            "value": 0.042
+        },
+        {
+            "atom": "C16",
+            "value": 0.038
+        },
+        {
+            "atom": "C15",
+            "value": 0.0
+        },
+        {
+            "atom": "N21",
+            "value": 0.28
+        },
+        {
+            "atom": "C22",
+            "value": 0.182
+        },
+        {
+            "atom": "C23",
+            "value": 0.0
+        },
+        {
+            "atom": "C25",
+            "value": 0.0
+        },
+        {
+            "atom": "C26",
+            "value": 0.0
+        },
+        {
+            "atom": "C27",
+            "value": 0.0
+        },
+        {
+            "atom": "C28",
+            "value": 0.015
+        },
+        {
+            "atom": "C29",
+            "value": 0.012
+        },
+        {
+            "atom": "C53",
+            "value": 0.5
+        },
+        {
+            "atom": "C52",
+            "value": 0.692
+        },
+        {
+            "atom": "N51",
+            "value": 0.667
+        },
+        {
+            "atom": "C54",
+            "value": 0.375
+        },
+        {
+            "atom": "C50",
+            "value": 0.5
+        },
+        {
+            "atom": "C49",
+            "value": 1.0
+        },
+        {
+            "atom": "O29",
+            "value": 0.214
+        },
+        {
+            "atom": "C20",
+            "value": 0.048
+        }
+    ],
+    "vdw": [
+        {
+            "atom": "C1",
+            "value": 0.009
+        },
+        {
+            "atom": "C6",
+            "value": 0.0
+        },
+        {
+            "atom": "C5",
+            "value": 0.011
+        },
+        {
+            "atom": "C4",
+            "value": 0.042
+        },
+        {
+            "atom": "N3",
+            "value": 0.043
+        },
+        {
+            "atom": "C2",
+            "value": 0.051
+        },
+        {
+            "atom": "C7",
+            "value": 0.0
+        },
+        {
+            "atom": "C12",
+            "value": 0.029
+        },
+        {
+            "atom": "C11",
+            "value": 0.04
+        },
+        {
+            "atom": "N10",
+            "value": 0.039
+        },
+        {
+            "atom": "C9",
+            "value": 0.016
+        },
+        {
+            "atom": "N8",
+            "value": 0.017
+        },
+        {
+            "atom": "N13",
+            "value": 0.031
+        },
+        {
+            "atom": "C14",
+            "value": 0.058
+        },
+        {
+            "atom": "C19",
+            "value": 0.012
+        },
+        {
+            "atom": "C18",
+            "value": 0.023
+        },
+        {
+            "atom": "C17",
+            "value": 0.042
+        },
+        {
+            "atom": "C16",
+            "value": 0.019
+        },
+        {
+            "atom": "C15",
+            "value": 0.0
+        },
+        {
+            "atom": "N21",
+            "value": 0.08
+        },
+        {
+            "atom": "C22",
+            "value": 0.091
+        },
+        {
+            "atom": "C23",
+            "value": 0.012
+        },
+        {
+            "atom": "C25",
+            "value": 0.038
+        },
+        {
+            "atom": "C26",
+            "value": 0.015
+        },
+        {
+            "atom": "C27",
+            "value": 0.017
+        },
+        {
+            "atom": "C28",
+            "value": 0.015
+        },
+        {
+            "atom": "C29",
+            "value": 0.025
+        },
+        {
+            "atom": "C53",
+            "value": 0.5
+        },
+        {
+            "atom": "C52",
+            "value": 0.308
+        },
+        {
+            "atom": "N51",
+            "value": 0.333
+        },
+        {
+            "atom": "C54",
+            "value": 0.625
+        },
+        {
+            "atom": "C50",
+            "value": 0.5
+        },
+        {
+            "atom": "C49",
+            "value": 0.0
+        },
+        {
+            "atom": "O29",
+            "value": 0.214
+        },
+        {
+            "atom": "C20",
+            "value": 0.0
+        }
+    ],
+    "hbond": [
+        {
+            "atom": "C1",
+            "value": 0.0
+        },
+        {
+            "atom": "C6",
+            "value": 0.0
+        },
+        {
+            "atom": "C5",
+            "value": 0.0
+        },
+        {
+            "atom": "C4",
+            "value": 0.0
+        },
+        {
+            "atom": "N3",
+            "value": 0.108
+        },
+        {
+            "atom": "C2",
+            "value": 0.0
+        },
+        {
+            "atom": "C7",
+            "value": 0.0
+        },
+        {
+            "atom": "C12",
+            "value": 0.0
+        },
+        {
+            "atom": "C11",
+            "value": 0.0
+        },
+        {
+            "atom": "N10",
+            "value": 0.026
+        },
+        {
+            "atom": "C9",
+            "value": 0.0
+        },
+        {
+            "atom": "N8",
+            "value": 0.0
+        },
+        {
+            "atom": "N13",
+            "value": 0.344
+        },
+        {
+            "atom": "C14",
+            "value": 0.0
+        },
+        {
+            "atom": "C19",
+            "value": 0.0
+        },
+        {
+            "atom": "C18",
+            "value": 0.0
+        },
+        {
+            "atom": "C17",
+            "value": 0.0
+        },
+        {
+            "atom": "C16",
+            "value": 0.0
+        },
+        {
+            "atom": "C15",
+            "value": 0.0
+        },
+        {
+            "atom": "N21",
+            "value": 0.3
+        },
+        {
+            "atom": "C22",
+            "value": 0.0
+        },
+        {
+            "atom": "C23",
+            "value": 0.0
+        },
+        {
+            "atom": "C25",
+            "value": 0.0
+        },
+        {
+            "atom": "C26",
+            "value": 0.0
+        },
+        {
+            "atom": "C27",
+            "value": 0.0
+        },
+        {
+            "atom": "C28",
+            "value": 0.0
+        },
+        {
+            "atom": "C29",
+            "value": 0.0
+        },
+        {
+            "atom": "C53",
+            "value": 0.0
+        },
+        {
+            "atom": "C52",
+            "value": 0.0
+        },
+        {
+            "atom": "N51",
+            "value": 0.0
+        },
+        {
+            "atom": "C54",
+            "value": 0.0
+        },
+        {
+            "atom": "C50",
+            "value": 0.0
+        },
+        {
+            "atom": "C49",
+            "value": 0.0
+        },
+        {
+            "atom": "O29",
+            "value": 0.214
+        },
+        {
+            "atom": "C20",
+            "value": 0.0
+        }
+    ],
+    "xbond": [
+        {
+            "atom": "C1",
+            "value": 0.0
+        },
+        {
+            "atom": "C6",
+            "value": 0.0
+        },
+        {
+            "atom": "C5",
+            "value": 0.0
+        },
+        {
+            "atom": "C4",
+            "value": 0.0
+        },
+        {
+            "atom": "N3",
+            "value": 0.0
+        },
+        {
+            "atom": "C2",
+            "value": 0.0
+        },
+        {
+            "atom": "C7",
+            "value": 0.0
+        },
+        {
+            "atom": "C12",
+            "value": 0.0
+        },
+        {
+            "atom": "C11",
+            "value": 0.0
+        },
+        {
+            "atom": "N10",
+            "value": 0.0
+        },
+        {
+            "atom": "C9",
+            "value": 0.0
+        },
+        {
+            "atom": "N8",
+            "value": 0.0
+        },
+        {
+            "atom": "N13",
+            "value": 0.0
+        },
+        {
+            "atom": "C14",
+            "value": 0.0
+        },
+        {
+            "atom": "C19",
+            "value": 0.0
+        },
+        {
+            "atom": "C18",
+            "value": 0.0
+        },
+        {
+            "atom": "C17",
+            "value": 0.0
+        },
+        {
+            "atom": "C16",
+            "value": 0.0
+        },
+        {
+            "atom": "C15",
+            "value": 0.0
+        },
+        {
+            "atom": "N21",
+            "value": 0.0
+        },
+        {
+            "atom": "C22",
+            "value": 0.0
+        },
+        {
+            "atom": "C23",
+            "value": 0.0
+        },
+        {
+            "atom": "C25",
+            "value": 0.0
+        },
+        {
+            "atom": "C26",
+            "value": 0.0
+        },
+        {
+            "atom": "C27",
+            "value": 0.0
+        },
+        {
+            "atom": "C28",
+            "value": 0.0
+        },
+        {
+            "atom": "C29",
+            "value": 0.0
+        },
+        {
+            "atom": "C53",
+            "value": 0.0
+        },
+        {
+            "atom": "C52",
+            "value": 0.0
+        },
+        {
+            "atom": "N51",
+            "value": 0.0
+        },
+        {
+            "atom": "C54",
+            "value": 0.0
+        },
+        {
+            "atom": "C50",
+            "value": 0.0
+        },
+        {
+            "atom": "C49",
+            "value": 0.0
+        },
+        {
+            "atom": "O29",
+            "value": 0.0
+        },
+        {
+            "atom": "C20",
+            "value": 0.0
+        }
+    ],
+    "ionic": [
+        {
+            "atom": "C1",
+            "value": 0.0
+        },
+        {
+            "atom": "C6",
+            "value": 0.0
+        },
+        {
+            "atom": "C5",
+            "value": 0.0
+        },
+        {
+            "atom": "C4",
+            "value": 0.0
+        },
+        {
+            "atom": "N3",
+            "value": 0.0
+        },
+        {
+            "atom": "C2",
+            "value": 0.0
+        },
+        {
+            "atom": "C7",
+            "value": 0.0
+        },
+        {
+            "atom": "C12",
+            "value": 0.0
+        },
+        {
+            "atom": "C11",
+            "value": 0.0
+        },
+        {
+            "atom": "N10",
+            "value": 0.0
+        },
+        {
+            "atom": "C9",
+            "value": 0.0
+        },
+        {
+            "atom": "N8",
+            "value": 0.0
+        },
+        {
+            "atom": "N13",
+            "value": 0.0
+        },
+        {
+            "atom": "C14",
+            "value": 0.0
+        },
+        {
+            "atom": "C19",
+            "value": 0.0
+        },
+        {
+            "atom": "C18",
+            "value": 0.0
+        },
+        {
+            "atom": "C17",
+            "value": 0.0
+        },
+        {
+            "atom": "C16",
+            "value": 0.0
+        },
+        {
+            "atom": "C15",
+            "value": 0.0
+        },
+        {
+            "atom": "N21",
+            "value": 0.0
+        },
+        {
+            "atom": "C22",
+            "value": 0.0
+        },
+        {
+            "atom": "C23",
+            "value": 0.0
+        },
+        {
+            "atom": "C25",
+            "value": 0.0
+        },
+        {
+            "atom": "C26",
+            "value": 0.0
+        },
+        {
+            "atom": "C27",
+            "value": 0.0
+        },
+        {
+            "atom": "C28",
+            "value": 0.0
+        },
+        {
+            "atom": "C29",
+            "value": 0.0
+        },
+        {
+            "atom": "C53",
+            "value": 0.0
+        },
+        {
+            "atom": "C52",
+            "value": 0.0
+        },
+        {
+            "atom": "N51",
+            "value": 0.0
+        },
+        {
+            "atom": "C54",
+            "value": 0.0
+        },
+        {
+            "atom": "C50",
+            "value": 0.0
+        },
+        {
+            "atom": "C49",
+            "value": 0.0
+        },
+        {
+            "atom": "O29",
+            "value": 0.0
+        },
+        {
+            "atom": "C20",
+            "value": 0.0
+        }
+    ],
+    "metal_complex": [
+        {
+            "atom": "C1",
+            "value": 0.0
+        },
+        {
+            "atom": "C6",
+            "value": 0.0
+        },
+        {
+            "atom": "C5",
+            "value": 0.0
+        },
+        {
+            "atom": "C4",
+            "value": 0.0
+        },
+        {
+            "atom": "N3",
+            "value": 0.0
+        },
+        {
+            "atom": "C2",
+            "value": 0.0
+        },
+        {
+            "atom": "C7",
+            "value": 0.0
+        },
+        {
+            "atom": "C12",
+            "value": 0.0
+        },
+        {
+            "atom": "C11",
+            "value": 0.0
+        },
+        {
+            "atom": "N10",
+            "value": 0.0
+        },
+        {
+            "atom": "C9",
+            "value": 0.0
+        },
+        {
+            "atom": "N8",
+            "value": 0.0
+        },
+        {
+            "atom": "N13",
+            "value": 0.0
+        },
+        {
+            "atom": "C14",
+            "value": 0.0
+        },
+        {
+            "atom": "C19",
+            "value": 0.0
+        },
+        {
+            "atom": "C18",
+            "value": 0.0
+        },
+        {
+            "atom": "C17",
+            "value": 0.0
+        },
+        {
+            "atom": "C16",
+            "value": 0.0
+        },
+        {
+            "atom": "C15",
+            "value": 0.0
+        },
+        {
+            "atom": "N21",
+            "value": 0.0
+        },
+        {
+            "atom": "C22",
+            "value": 0.0
+        },
+        {
+            "atom": "C23",
+            "value": 0.0
+        },
+        {
+            "atom": "C25",
+            "value": 0.0
+        },
+        {
+            "atom": "C26",
+            "value": 0.0
+        },
+        {
+            "atom": "C27",
+            "value": 0.0
+        },
+        {
+            "atom": "C28",
+            "value": 0.0
+        },
+        {
+            "atom": "C29",
+            "value": 0.0
+        },
+        {
+            "atom": "C53",
+            "value": 0.0
+        },
+        {
+            "atom": "C52",
+            "value": 0.0
+        },
+        {
+            "atom": "N51",
+            "value": 0.0
+        },
+        {
+            "atom": "C54",
+            "value": 0.0
+        },
+        {
+            "atom": "C50",
+            "value": 0.0
+        },
+        {
+            "atom": "C49",
+            "value": 0.0
+        },
+        {
+            "atom": "O29",
+            "value": 0.0
+        },
+        {
+            "atom": "C20",
+            "value": 0.0
+        }
+    ],
+    "aromatic": [
+        {
+            "atom": "C1",
+            "value": 0.11
+        },
+        {
+            "atom": "C6",
+            "value": 0.092
+        },
+        {
+            "atom": "C5",
+            "value": 0.023
+        },
+        {
+            "atom": "C4",
+            "value": 0.083
+        },
+        {
+            "atom": "N3",
+            "value": 0.226
+        },
+        {
+            "atom": "C2",
+            "value": 0.333
+        },
+        {
+            "atom": "C7",
+            "value": 0.131
+        },
+        {
+            "atom": "C12",
+            "value": 0.185
+        },
+        {
+            "atom": "C11",
+            "value": 0.356
+        },
+        {
+            "atom": "N10",
+            "value": 0.208
+        },
+        {
+            "atom": "C9",
+            "value": 0.131
+        },
+        {
+            "atom": "N8",
+            "value": 0.086
+        },
+        {
+            "atom": "N13",
+            "value": 0.0
+        },
+        {
+            "atom": "C14",
+            "value": 0.0
+        },
+        {
+            "atom": "C19",
+            "value": 0.0
+        },
+        {
+            "atom": "C18",
+            "value": 0.015
+        },
+        {
+            "atom": "C17",
+            "value": 0.008
+        },
+        {
+            "atom": "C16",
+            "value": 0.038
+        },
+        {
+            "atom": "C15",
+            "value": 0.031
+        },
+        {
+            "atom": "N21",
+            "value": 0.0
+        },
+        {
+            "atom": "C22",
+            "value": 0.0
+        },
+        {
+            "atom": "C23",
+            "value": 0.024
+        },
+        {
+            "atom": "C25",
+            "value": 0.012
+        },
+        {
+            "atom": "C26",
+            "value": 0.029
+        },
+        {
+            "atom": "C27",
+            "value": 0.0
+        },
+        {
+            "atom": "C28",
+            "value": 0.0
+        },
+        {
+            "atom": "C29",
+            "value": 0.037
+        },
+        {
+            "atom": "C53",
+            "value": 0.0
+        },
+        {
+            "atom": "C52",
+            "value": 0.0
+        },
+        {
+            "atom": "N51",
+            "value": 0.0
+        },
+        {
+            "atom": "C54",
+            "value": 0.0
+        },
+        {
+            "atom": "C50",
+            "value": 0.0
+        },
+        {
+            "atom": "C49",
+            "value": 0.0
+        },
+        {
+            "atom": "O29",
+            "value": 0.0
+        },
+        {
+            "atom": "C20",
+            "value": 0.0
+        }
+    ],
+    "hydrophobic": [
+        {
+            "atom": "C1",
+            "value": 0.523
+        },
+        {
+            "atom": "C6",
+            "value": 0.52
+        },
+        {
+            "atom": "C5",
+            "value": 0.534
+        },
+        {
+            "atom": "C4",
+            "value": 0.0
+        },
+        {
+            "atom": "N3",
+            "value": 0.0
+        },
+        {
+            "atom": "C2",
+            "value": 0.0
+        },
+        {
+            "atom": "C7",
+            "value": 0.0
+        },
+        {
+            "atom": "C12",
+            "value": 0.486
+        },
+        {
+            "atom": "C11",
+            "value": 0.0
+        },
+        {
+            "atom": "N10",
+            "value": 0.0
+        },
+        {
+            "atom": "C9",
+            "value": 0.0
+        },
+        {
+            "atom": "N8",
+            "value": 0.0
+        },
+        {
+            "atom": "N13",
+            "value": 0.0
+        },
+        {
+            "atom": "C14",
+            "value": 0.0
+        },
+        {
+            "atom": "C19",
+            "value": 0.372
+        },
+        {
+            "atom": "C18",
+            "value": 0.586
+        },
+        {
+            "atom": "C17",
+            "value": 0.504
+        },
+        {
+            "atom": "C16",
+            "value": 0.0
+        },
+        {
+            "atom": "C15",
+            "value": 0.469
+        },
+        {
+            "atom": "N21",
+            "value": 0.0
+        },
+        {
+            "atom": "C22",
+            "value": 0.0
+        },
+        {
+            "atom": "C23",
+            "value": 0.518
+        },
+        {
+            "atom": "C25",
+            "value": 0.512
+        },
+        {
+            "atom": "C26",
+            "value": 0.441
+        },
+        {
+            "atom": "C27",
+            "value": 0.39
+        },
+        {
+            "atom": "C28",
+            "value": 0.431
+        },
+        {
+            "atom": "C29",
+            "value": 0.494
+        },
+        {
+            "atom": "C53",
+            "value": 0.0
+        },
+        {
+            "atom": "C52",
+            "value": 0.0
+        },
+        {
+            "atom": "N51",
+            "value": 0.0
+        },
+        {
+            "atom": "C54",
+            "value": 0.0
+        },
+        {
+            "atom": "C50",
+            "value": 0.0
+        },
+        {
+            "atom": "C49",
+            "value": 0.0
+        },
+        {
+            "atom": "O29",
+            "value": 0.0
+        },
+        {
+            "atom": "C20",
+            "value": 0.935
+        }
+    ],
+    "carbonyl": [
+        {
+            "atom": "C1",
+            "value": 0.0
+        },
+        {
+            "atom": "C6",
+            "value": 0.0
+        },
+        {
+            "atom": "C5",
+            "value": 0.0
+        },
+        {
+            "atom": "C4",
+            "value": 0.0
+        },
+        {
+            "atom": "N3",
+            "value": 0.0
+        },
+        {
+            "atom": "C2",
+            "value": 0.0
+        },
+        {
+            "atom": "C7",
+            "value": 0.0
+        },
+        {
+            "atom": "C12",
+            "value": 0.0
+        },
+        {
+            "atom": "C11",
+            "value": 0.0
+        },
+        {
+            "atom": "N10",
+            "value": 0.0
+        },
+        {
+            "atom": "C9",
+            "value": 0.0
+        },
+        {
+            "atom": "N8",
+            "value": 0.0
+        },
+        {
+            "atom": "N13",
+            "value": 0.0
+        },
+        {
+            "atom": "C14",
+            "value": 0.0
+        },
+        {
+            "atom": "C19",
+            "value": 0.0
+        },
+        {
+            "atom": "C18",
+            "value": 0.0
+        },
+        {
+            "atom": "C17",
+            "value": 0.0
+        },
+        {
+            "atom": "C16",
+            "value": 0.0
+        },
+        {
+            "atom": "C15",
+            "value": 0.0
+        },
+        {
+            "atom": "N21",
+            "value": 0.0
+        },
+        {
+            "atom": "C22",
+            "value": 0.545
+        },
+        {
+            "atom": "C23",
+            "value": 0.0
+        },
+        {
+            "atom": "C25",
+            "value": 0.0
+        },
+        {
+            "atom": "C26",
+            "value": 0.0
+        },
+        {
+            "atom": "C27",
+            "value": 0.0
+        },
+        {
+            "atom": "C28",
+            "value": 0.0
+        },
+        {
+            "atom": "C29",
+            "value": 0.0
+        },
+        {
+            "atom": "C53",
+            "value": 0.0
+        },
+        {
+            "atom": "C52",
+            "value": 0.0
+        },
+        {
+            "atom": "N51",
+            "value": 0.0
+        },
+        {
+            "atom": "C54",
+            "value": 0.0
+        },
+        {
+            "atom": "C50",
+            "value": 0.0
+        },
+        {
+            "atom": "C49",
+            "value": 0.0
+        },
+        {
+            "atom": "O29",
+            "value": 0.095
+        },
+        {
+            "atom": "C20",
+            "value": 0.0
+        }
+    ],
+    "polar": [
+        {
+            "atom": "C1",
+            "value": 0.0
+        },
+        {
+            "atom": "C6",
+            "value": 0.0
+        },
+        {
+            "atom": "C5",
+            "value": 0.0
+        },
+        {
+            "atom": "C4",
+            "value": 0.0
+        },
+        {
+            "atom": "N3",
+            "value": 0.097
+        },
+        {
+            "atom": "C2",
+            "value": 0.0
+        },
+        {
+            "atom": "C7",
+            "value": 0.0
+        },
+        {
+            "atom": "C12",
+            "value": 0.0
+        },
+        {
+            "atom": "C11",
+            "value": 0.0
+        },
+        {
+            "atom": "N10",
+            "value": 0.026
+        },
+        {
+            "atom": "C9",
+            "value": 0.0
+        },
+        {
+            "atom": "N8",
+            "value": 0.0
+        },
+        {
+            "atom": "N13",
+            "value": 0.344
+        },
+        {
+            "atom": "C14",
+            "value": 0.0
+        },
+        {
+            "atom": "C19",
+            "value": 0.0
+        },
+        {
+            "atom": "C18",
+            "value": 0.0
+        },
+        {
+            "atom": "C17",
+            "value": 0.0
+        },
+        {
+            "atom": "C16",
+            "value": 0.0
+        },
+        {
+            "atom": "C15",
+            "value": 0.0
+        },
+        {
+            "atom": "N21",
+            "value": 0.3
+        },
+        {
+            "atom": "C22",
+            "value": 0.0
+        },
+        {
+            "atom": "C23",
+            "value": 0.0
+        },
+        {
+            "atom": "C25",
+            "value": 0.0
+        },
+        {
+            "atom": "C26",
+            "value": 0.0
+        },
+        {
+            "atom": "C27",
+            "value": 0.0
+        },
+        {
+            "atom": "C28",
+            "value": 0.0
+        },
+        {
+            "atom": "C29",
+            "value": 0.0
+        },
+        {
+            "atom": "C53",
+            "value": 0.0
+        },
+        {
+            "atom": "C52",
+            "value": 0.0
+        },
+        {
+            "atom": "N51",
+            "value": 0.0
+        },
+        {
+            "atom": "C54",
+            "value": 0.0
+        },
+        {
+            "atom": "C50",
+            "value": 0.0
+        },
+        {
+            "atom": "C49",
+            "value": 0.0
+        },
+        {
+            "atom": "O29",
+            "value": 0.214
+        },
+        {
+            "atom": "C20",
+            "value": 0.0
+        }
+    ],
+    "CARBONPI": [
+        {
+            "atom": "C1",
+            "value": 0.138
+        },
+        {
+            "atom": "C6",
+            "value": 0.153
+        },
+        {
+            "atom": "C5",
+            "value": 0.17
+        },
+        {
+            "atom": "C4",
+            "value": 0.312
+        },
+        {
+            "atom": "N3",
+            "value": 0.161
+        },
+        {
+            "atom": "C2",
+            "value": 0.192
+        },
+        {
+            "atom": "C7",
+            "value": 0.246
+        },
+        {
+            "atom": "C12",
+            "value": 0.087
+        },
+        {
+            "atom": "C11",
+            "value": 0.149
+        },
+        {
+            "atom": "N10",
+            "value": 0.195
+        },
+        {
+            "atom": "C9",
+            "value": 0.246
+        },
+        {
+            "atom": "N8",
+            "value": 0.259
+        },
+        {
+            "atom": "N13",
+            "value": 0.0
+        },
+        {
+            "atom": "C14",
+            "value": 0.462
+        },
+        {
+            "atom": "C19",
+            "value": 0.279
+        },
+        {
+            "atom": "C18",
+            "value": 0.18
+        },
+        {
+            "atom": "C17",
+            "value": 0.202
+        },
+        {
+            "atom": "C16",
+            "value": 0.453
+        },
+        {
+            "atom": "C15",
+            "value": 0.25
+        },
+        {
+            "atom": "N21",
+            "value": 0.0
+        },
+        {
+            "atom": "C22",
+            "value": 0.0
+        },
+        {
+            "atom": "C23",
+            "value": 0.253
+        },
+        {
+            "atom": "C25",
+            "value": 0.262
+        },
+        {
+            "atom": "C26",
+            "value": 0.309
+        },
+        {
+            "atom": "C27",
+            "value": 0.356
+        },
+        {
+            "atom": "C28",
+            "value": 0.323
+        },
+        {
+            "atom": "C29",
+            "value": 0.259
+        },
+        {
+            "atom": "C53",
+            "value": 0.0
+        },
+        {
+            "atom": "C52",
+            "value": 0.0
+        },
+        {
+            "atom": "N51",
+            "value": 0.0
+        },
+        {
+            "atom": "C54",
+            "value": 0.0
+        },
+        {
+            "atom": "C50",
+            "value": 0.0
+        },
+        {
+            "atom": "C49",
+            "value": 0.0
+        },
+        {
+            "atom": "O29",
+            "value": 0.0
+        },
+        {
+            "atom": "C20",
+            "value": 0.016
+        }
+    ],
+    "CATIONPI": [
+        {
+            "atom": "C1",
+            "value": 0.0
+        },
+        {
+            "atom": "C6",
+            "value": 0.0
+        },
+        {
+            "atom": "C5",
+            "value": 0.0
+        },
+        {
+            "atom": "C4",
+            "value": 0.0
+        },
+        {
+            "atom": "N3",
+            "value": 0.0
+        },
+        {
+            "atom": "C2",
+            "value": 0.0
+        },
+        {
+            "atom": "C7",
+            "value": 0.0
+        },
+        {
+            "atom": "C12",
+            "value": 0.0
+        },
+        {
+            "atom": "C11",
+            "value": 0.0
+        },
+        {
+            "atom": "N10",
+            "value": 0.0
+        },
+        {
+            "atom": "C9",
+            "value": 0.0
+        },
+        {
+            "atom": "N8",
+            "value": 0.0
+        },
+        {
+            "atom": "N13",
+            "value": 0.0
+        },
+        {
+            "atom": "C14",
+            "value": 0.058
+        },
+        {
+            "atom": "C19",
+            "value": 0.035
+        },
+        {
+            "atom": "C18",
+            "value": 0.023
+        },
+        {
+            "atom": "C17",
+            "value": 0.025
+        },
+        {
+            "atom": "C16",
+            "value": 0.057
+        },
+        {
+            "atom": "C15",
+            "value": 0.031
+        },
+        {
+            "atom": "N21",
+            "value": 0.0
+        },
+        {
+            "atom": "C22",
+            "value": 0.0
+        },
+        {
+            "atom": "C23",
+            "value": 0.0
+        },
+        {
+            "atom": "C25",
+            "value": 0.0
+        },
+        {
+            "atom": "C26",
+            "value": 0.0
+        },
+        {
+            "atom": "C27",
+            "value": 0.0
+        },
+        {
+            "atom": "C28",
+            "value": 0.0
+        },
+        {
+            "atom": "C29",
+            "value": 0.0
+        },
+        {
+            "atom": "C53",
+            "value": 0.0
+        },
+        {
+            "atom": "C52",
+            "value": 0.0
+        },
+        {
+            "atom": "N51",
+            "value": 0.0
+        },
+        {
+            "atom": "C54",
+            "value": 0.0
+        },
+        {
+            "atom": "C50",
+            "value": 0.0
+        },
+        {
+            "atom": "C49",
+            "value": 0.0
+        },
+        {
+            "atom": "O29",
+            "value": 0.0
+        },
+        {
+            "atom": "C20",
+            "value": 0.0
+        }
+    ],
+    "DONORPI": [
+        {
+            "atom": "C1",
+            "value": 0.0
+        },
+        {
+            "atom": "C6",
+            "value": 0.0
+        },
+        {
+            "atom": "C5",
+            "value": 0.0
+        },
+        {
+            "atom": "C4",
+            "value": 0.0
+        },
+        {
+            "atom": "N3",
+            "value": 0.0
+        },
+        {
+            "atom": "C2",
+            "value": 0.0
+        },
+        {
+            "atom": "C7",
+            "value": 0.0
+        },
+        {
+            "atom": "C12",
+            "value": 0.0
+        },
+        {
+            "atom": "C11",
+            "value": 0.0
+        },
+        {
+            "atom": "N10",
+            "value": 0.0
+        },
+        {
+            "atom": "C9",
+            "value": 0.0
+        },
+        {
+            "atom": "N8",
+            "value": 0.0
+        },
+        {
+            "atom": "N13",
+            "value": 0.0
+        },
+        {
+            "atom": "C14",
+            "value": 0.058
+        },
+        {
+            "atom": "C19",
+            "value": 0.035
+        },
+        {
+            "atom": "C18",
+            "value": 0.023
+        },
+        {
+            "atom": "C17",
+            "value": 0.025
+        },
+        {
+            "atom": "C16",
+            "value": 0.057
+        },
+        {
+            "atom": "C15",
+            "value": 0.031
+        },
+        {
+            "atom": "N21",
+            "value": 0.0
+        },
+        {
+            "atom": "C22",
+            "value": 0.0
+        },
+        {
+            "atom": "C23",
+            "value": 0.0
+        },
+        {
+            "atom": "C25",
+            "value": 0.0
+        },
+        {
+            "atom": "C26",
+            "value": 0.0
+        },
+        {
+            "atom": "C27",
+            "value": 0.0
+        },
+        {
+            "atom": "C28",
+            "value": 0.0
+        },
+        {
+            "atom": "C29",
+            "value": 0.0
+        },
+        {
+            "atom": "C53",
+            "value": 0.0
+        },
+        {
+            "atom": "C52",
+            "value": 0.0
+        },
+        {
+            "atom": "N51",
+            "value": 0.0
+        },
+        {
+            "atom": "C54",
+            "value": 0.0
+        },
+        {
+            "atom": "C50",
+            "value": 0.0
+        },
+        {
+            "atom": "C49",
+            "value": 0.0
+        },
+        {
+            "atom": "O29",
+            "value": 0.0
+        },
+        {
+            "atom": "C20",
+            "value": 0.0
+        }
+    ],
+    "HALOGENPI": [
+        {
+            "atom": "C1",
+            "value": 0.0
+        },
+        {
+            "atom": "C6",
+            "value": 0.0
+        },
+        {
+            "atom": "C5",
+            "value": 0.0
+        },
+        {
+            "atom": "C4",
+            "value": 0.0
+        },
+        {
+            "atom": "N3",
+            "value": 0.0
+        },
+        {
+            "atom": "C2",
+            "value": 0.0
+        },
+        {
+            "atom": "C7",
+            "value": 0.0
+        },
+        {
+            "atom": "C12",
+            "value": 0.0
+        },
+        {
+            "atom": "C11",
+            "value": 0.0
+        },
+        {
+            "atom": "N10",
+            "value": 0.0
+        },
+        {
+            "atom": "C9",
+            "value": 0.0
+        },
+        {
+            "atom": "N8",
+            "value": 0.0
+        },
+        {
+            "atom": "N13",
+            "value": 0.0
+        },
+        {
+            "atom": "C14",
+            "value": 0.0
+        },
+        {
+            "atom": "C19",
+            "value": 0.0
+        },
+        {
+            "atom": "C18",
+            "value": 0.0
+        },
+        {
+            "atom": "C17",
+            "value": 0.0
+        },
+        {
+            "atom": "C16",
+            "value": 0.0
+        },
+        {
+            "atom": "C15",
+            "value": 0.0
+        },
+        {
+            "atom": "N21",
+            "value": 0.0
+        },
+        {
+            "atom": "C22",
+            "value": 0.0
+        },
+        {
+            "atom": "C23",
+            "value": 0.0
+        },
+        {
+            "atom": "C25",
+            "value": 0.0
+        },
+        {
+            "atom": "C26",
+            "value": 0.0
+        },
+        {
+            "atom": "C27",
+            "value": 0.0
+        },
+        {
+            "atom": "C28",
+            "value": 0.0
+        },
+        {
+            "atom": "C29",
+            "value": 0.0
+        },
+        {
+            "atom": "C53",
+            "value": 0.0
+        },
+        {
+            "atom": "C52",
+            "value": 0.0
+        },
+        {
+            "atom": "N51",
+            "value": 0.0
+        },
+        {
+            "atom": "C54",
+            "value": 0.0
+        },
+        {
+            "atom": "C50",
+            "value": 0.0
+        },
+        {
+            "atom": "C49",
+            "value": 0.0
+        },
+        {
+            "atom": "O29",
+            "value": 0.0
+        },
+        {
+            "atom": "C20",
+            "value": 0.0
+        }
+    ],
+    "METSULPHURPI": [
+        {
+            "atom": "C1",
+            "value": 0.018
+        },
+        {
+            "atom": "C6",
+            "value": 0.02
+        },
+        {
+            "atom": "C5",
+            "value": 0.023
+        },
+        {
+            "atom": "C4",
+            "value": 0.042
+        },
+        {
+            "atom": "N3",
+            "value": 0.022
+        },
+        {
+            "atom": "C2",
+            "value": 0.026
+        },
+        {
+            "atom": "C7",
+            "value": 0.049
+        },
+        {
+            "atom": "C12",
+            "value": 0.017
+        },
+        {
+            "atom": "C11",
+            "value": 0.03
+        },
+        {
+            "atom": "N10",
+            "value": 0.039
+        },
+        {
+            "atom": "C9",
+            "value": 0.049
+        },
+        {
+            "atom": "N8",
+            "value": 0.052
+        },
+        {
+            "atom": "N13",
+            "value": 0.0
+        },
+        {
+            "atom": "C14",
+            "value": 0.25
+        },
+        {
+            "atom": "C19",
+            "value": 0.151
+        },
+        {
+            "atom": "C18",
+            "value": 0.098
+        },
+        {
+            "atom": "C17",
+            "value": 0.109
+        },
+        {
+            "atom": "C16",
+            "value": 0.245
+        },
+        {
+            "atom": "C15",
+            "value": 0.135
+        },
+        {
+            "atom": "N21",
+            "value": 0.0
+        },
+        {
+            "atom": "C22",
+            "value": 0.0
+        },
+        {
+            "atom": "C23",
+            "value": 0.108
+        },
+        {
+            "atom": "C25",
+            "value": 0.112
+        },
+        {
+            "atom": "C26",
+            "value": 0.132
+        },
+        {
+            "atom": "C27",
+            "value": 0.153
+        },
+        {
+            "atom": "C28",
+            "value": 0.138
+        },
+        {
+            "atom": "C29",
+            "value": 0.111
+        },
+        {
+            "atom": "C53",
+            "value": 0.0
+        },
+        {
+            "atom": "C52",
+            "value": 0.0
+        },
+        {
+            "atom": "N51",
+            "value": 0.0
+        },
+        {
+            "atom": "C54",
+            "value": 0.0
+        },
+        {
+            "atom": "C50",
+            "value": 0.0
+        },
+        {
+            "atom": "C49",
+            "value": 0.0
+        },
+        {
+            "atom": "O29",
+            "value": 0.0
+        },
+        {
+            "atom": "C20",
+            "value": 0.0
+        }
+    ],
+    "AMIDEAMIDE": [
+        {
+            "atom": "C1",
+            "value": 0.0
+        },
+        {
+            "atom": "C6",
+            "value": 0.0
+        },
+        {
+            "atom": "C5",
+            "value": 0.0
+        },
+        {
+            "atom": "C4",
+            "value": 0.0
+        },
+        {
+            "atom": "N3",
+            "value": 0.0
+        },
+        {
+            "atom": "C2",
+            "value": 0.0
+        },
+        {
+            "atom": "C7",
+            "value": 0.0
+        },
+        {
+            "atom": "C12",
+            "value": 0.0
+        },
+        {
+            "atom": "C11",
+            "value": 0.0
+        },
+        {
+            "atom": "N10",
+            "value": 0.0
+        },
+        {
+            "atom": "C9",
+            "value": 0.0
+        },
+        {
+            "atom": "N8",
+            "value": 0.0
+        },
+        {
+            "atom": "N13",
+            "value": 0.0
+        },
+        {
+            "atom": "C14",
+            "value": 0.0
+        },
+        {
+            "atom": "C19",
+            "value": 0.0
+        },
+        {
+            "atom": "C18",
+            "value": 0.0
+        },
+        {
+            "atom": "C17",
+            "value": 0.0
+        },
+        {
+            "atom": "C16",
+            "value": 0.0
+        },
+        {
+            "atom": "C15",
+            "value": 0.0
+        },
+        {
+            "atom": "N21",
+            "value": 0.04
+        },
+        {
+            "atom": "C22",
+            "value": 0.182
+        },
+        {
+            "atom": "C23",
+            "value": 0.024
+        },
+        {
+            "atom": "C25",
+            "value": 0.0
+        },
+        {
+            "atom": "C26",
+            "value": 0.0
+        },
+        {
+            "atom": "C27",
+            "value": 0.0
+        },
+        {
+            "atom": "C28",
+            "value": 0.0
+        },
+        {
+            "atom": "C29",
+            "value": 0.0
+        },
+        {
+            "atom": "C53",
+            "value": 0.0
+        },
+        {
+            "atom": "C52",
+            "value": 0.0
+        },
+        {
+            "atom": "N51",
+            "value": 0.0
+        },
+        {
+            "atom": "C54",
+            "value": 0.0
+        },
+        {
+            "atom": "C50",
+            "value": 0.0
+        },
+        {
+            "atom": "C49",
+            "value": 0.0
+        },
+        {
+            "atom": "O29",
+            "value": 0.048
+        },
+        {
+            "atom": "C20",
+            "value": 0.0
+        }
+    ],
+    "AMIDERING": [
+        {
+            "atom": "C1",
+            "value": 0.0
+        },
+        {
+            "atom": "C6",
+            "value": 0.0
+        },
+        {
+            "atom": "C5",
+            "value": 0.0
+        },
+        {
+            "atom": "C4",
+            "value": 0.0
+        },
+        {
+            "atom": "N3",
+            "value": 0.0
+        },
+        {
+            "atom": "C2",
+            "value": 0.0
+        },
+        {
+            "atom": "C7",
+            "value": 0.016
+        },
+        {
+            "atom": "C12",
+            "value": 0.006
+        },
+        {
+            "atom": "C11",
+            "value": 0.01
+        },
+        {
+            "atom": "N10",
+            "value": 0.013
+        },
+        {
+            "atom": "C9",
+            "value": 0.016
+        },
+        {
+            "atom": "N8",
+            "value": 0.017
+        },
+        {
+            "atom": "N13",
+            "value": 0.0
+        },
+        {
+            "atom": "C14",
+            "value": 0.019
+        },
+        {
+            "atom": "C19",
+            "value": 0.012
+        },
+        {
+            "atom": "C18",
+            "value": 0.008
+        },
+        {
+            "atom": "C17",
+            "value": 0.008
+        },
+        {
+            "atom": "C16",
+            "value": 0.019
+        },
+        {
+            "atom": "C15",
+            "value": 0.01
+        },
+        {
+            "atom": "N21",
+            "value": 0.0
+        },
+        {
+            "atom": "C22",
+            "value": 0.0
+        },
+        {
+            "atom": "C23",
+            "value": 0.012
+        },
+        {
+            "atom": "C25",
+            "value": 0.012
+        },
+        {
+            "atom": "C26",
+            "value": 0.015
+        },
+        {
+            "atom": "C27",
+            "value": 0.017
+        },
+        {
+            "atom": "C28",
+            "value": 0.015
+        },
+        {
+            "atom": "C29",
+            "value": 0.012
+        },
+        {
+            "atom": "C53",
+            "value": 0.0
+        },
+        {
+            "atom": "C52",
+            "value": 0.0
+        },
+        {
+            "atom": "N51",
+            "value": 0.0
+        },
+        {
+            "atom": "C54",
+            "value": 0.0
+        },
+        {
+            "atom": "C50",
+            "value": 0.0
+        },
+        {
+            "atom": "C49",
+            "value": 0.0
+        },
+        {
+            "atom": "O29",
+            "value": 0.0
+        },
+        {
+            "atom": "C20",
+            "value": 0.0
+        }
+    ],
+    "plane_plane": [
+        {
+            "atom": "C1",
+            "value": 0.193
+        },
+        {
+            "atom": "C6",
+            "value": 0.214
+        },
+        {
+            "atom": "C5",
+            "value": 0.239
+        },
+        {
+            "atom": "C4",
+            "value": 0.438
+        },
+        {
+            "atom": "N3",
+            "value": 0.226
+        },
+        {
+            "atom": "C2",
+            "value": 0.269
+        },
+        {
+            "atom": "C7",
+            "value": 0.525
+        },
+        {
+            "atom": "C12",
+            "value": 0.185
+        },
+        {
+            "atom": "C11",
+            "value": 0.317
+        },
+        {
+            "atom": "N10",
+            "value": 0.416
+        },
+        {
+            "atom": "C9",
+            "value": 0.525
+        },
+        {
+            "atom": "N8",
+            "value": 0.552
+        },
+        {
+            "atom": "N13",
+            "value": 0.0
+        },
+        {
+            "atom": "C14",
+            "value": 0.077
+        },
+        {
+            "atom": "C19",
+            "value": 0.047
+        },
+        {
+            "atom": "C18",
+            "value": 0.03
+        },
+        {
+            "atom": "C17",
+            "value": 0.034
+        },
+        {
+            "atom": "C16",
+            "value": 0.075
+        },
+        {
+            "atom": "C15",
+            "value": 0.042
+        },
+        {
+            "atom": "N21",
+            "value": 0.0
+        },
+        {
+            "atom": "C22",
+            "value": 0.0
+        },
+        {
+            "atom": "C23",
+            "value": 0.048
+        },
+        {
+            "atom": "C25",
+            "value": 0.05
+        },
+        {
+            "atom": "C26",
+            "value": 0.059
+        },
+        {
+            "atom": "C27",
+            "value": 0.068
+        },
+        {
+            "atom": "C28",
+            "value": 0.062
+        },
+        {
+            "atom": "C29",
+            "value": 0.049
+        },
+        {
+            "atom": "C53",
+            "value": 0.0
+        },
+        {
+            "atom": "C52",
+            "value": 0.0
+        },
+        {
+            "atom": "N51",
+            "value": 0.0
+        },
+        {
+            "atom": "C54",
+            "value": 0.0
+        },
+        {
+            "atom": "C50",
+            "value": 0.0
+        },
+        {
+            "atom": "C49",
+            "value": 0.0
+        },
+        {
+            "atom": "O29",
+            "value": 0.0
+        },
+        {
+            "atom": "C20",
+            "value": 0.0
+        }
+    ]
+}
